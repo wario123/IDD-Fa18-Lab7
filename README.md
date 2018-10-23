@@ -21,6 +21,8 @@
 
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
+In my implementation, I installed the jimp package. With this package, I was able to read and load the image that was captured and modify it so that I could imnprove the quality of the picture while making the picture better and including a greyscale filter to this picture.
+
 **b. Upload a video of your working modified project**
 
 [Link to video!](https://youtu.be/RUMMEYaPgt4)
