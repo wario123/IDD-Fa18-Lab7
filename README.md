@@ -13,6 +13,8 @@
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
+The difference here is that we had to install and include the node-webcam package and set up a global variable initializing the webcam with certain options such as the picture quality, size etc.
+
 **b. Include a video of your working video doorbell**
 
 [Link to video!](https://youtu.be/ASGfXmiYWRI)
